@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myFragments</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">¿Qué estás viendo?</string>
+    <string name="title_activity_fragment">Un fragmento</string>
+    <string name="title_activity_w_activity_with_fragment">Mi lista de cosas</string>
+    <string name="action_info">¿Quieres saber en verdad?</string>
+</resources>
